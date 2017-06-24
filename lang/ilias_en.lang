@@ -1,0 +1,39 @@
+obj_xlcd#:#Location Data
+objs_xlcd#:#Location Data
+xlcd_new#:#New Location Data
+xlcd_duplicate#:#Copy Location Data
+xlcd_add#:#Add
+tab_show_content#:#Content
+tab_settings#:#Settings
+perm_settings#:#Permissions
+_title#:#Title
+_description#:#Description
+_latitude#:#Latitude
+_longitude#:#Longitude
+_actions#:#Actions
+view#:#View
+edit#:#Edit
+_edit#:#Edit
+_update#:#Update
+_create#:#Create
+delete#:#Delete
+fil_title#:#Title
+fil_description#:#Description
+view_title#:#Title
+view_description#:#Description
+view_latitude#:#Latitude
+view_longitude#:#Longitude
+view_info#:#Information
+system_account_msg_success#:#Success!
+confirm_delete_question#:# Do you really want to delete that location?
+_cancel#:#Cancel
+_delete#:#Delete
+save#:#Save
+title#:#Title
+description#:#Description
+_table_add#:#Add new location
+_coordinates#:#Coordinates
+xlcd#:#Location Data Plugin
+_actions#:#Actions
+cmps_plugin#:#Location Data
+pname#:#Location Data

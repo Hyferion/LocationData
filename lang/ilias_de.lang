@@ -1,0 +1,37 @@
+obj_xlcd#:#Location Data
+objs_xlcd#:#Location Data
+xlcd_new#:#Location Data anlegen
+xlcd_duplicate#:#Location Data kopieren
+xlcd_add#:#Neuer Ort hinzufügen
+tab_show_content#:#Inhalt
+tab_settings#:#Einstellungen
+perm_settings#:#Rechte
+_title#:#Titel
+_description#:#Beschreibung
+_latitude#:#Breite
+_longitude#:#Länge
+_actions#:#Aktionen
+view#:#Anzeigen
+edit#:#Bearbeiten
+_edit#:#Bearbeiten
+_create#:#Erstellen
+_update#:#Aktualisieren
+delete#:#Löschen
+fil_title#:#Titel
+fil_description#:#Beschreibung
+view_title#:#Titel
+view_description#:#Beschreibung
+view_latitude#:#Breite
+view_longitude#:#Länge
+view_info#:#Informationen
+system_account_msg_success#:#Erfolgreich!
+confirm_delete_question#:#Wollen Sie diesen Eintrag wirklich löschen?
+_cancel#:#Abbrechen
+_delete#:#Löschen
+save#:#Sichern
+title#:#Titel
+description#:#Beschreibung
+_table_add#:#Hinzufügen
+_coordinates#:#Koordinaten
+xlcd#:#Location Data Plugin
+_actions#:#Aktionen

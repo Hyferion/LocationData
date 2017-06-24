@@ -1,0 +1,37 @@
+obj_xlcd#:#Location Data
+objs_xlcd#:#Location Data
+xlcd_new#:#New Location Data
+xlcd_duplicate#:#Dupliquer Location Data
+xlcd_add#:#Ajouter
+tab_show_content#:#Le contenu
+tab_settings#:#Paramètres
+perm_settings#:#Droite
+_title#:#Titre
+_description#:#Description
+_latitude#:#Latitude
+_longitude#:#Longitude
+_actions#:#L'action
+view#:#Présenter
+edit#:#Cultiver
+_edit#:#Cultiver
+_update#:#Actualiser
+_create#:#Générer un nouveau lieu
+delete#:#Effacer
+fil_title#:#Titre
+fil_description#:#Description
+view_title#:#Titre
+view_description#:#Description
+view_latitude#:#Latitude
+view_longitude#:#Longitude
+view_info#:#L'information
+system_account_msg_success#:#Avec succès
+confirm_delete_question#:# Voulez-vous vraiment supprimer ce lieu?
+_cancel#:#Casser
+_delete#:#Effacer
+save#:#Entasser
+title#:#Titre
+description#:#Description
+_table_add#:#Ajouter un nouveau lieu
+_coordinates#:#Les coordonnées
+xlcd#:#Location Data Plugin
+_actions#:#L'action
